@@ -26,6 +26,9 @@ export class OrbitCountsComponent implements OnInit {
 	}
 	return count;
  }
+totalCount(arr){
+return arr.length
+}
 
 
 }
